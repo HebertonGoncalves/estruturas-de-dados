@@ -100,6 +100,6 @@ jogos.inserir('NFS', 4);
 
 //objeto chama o metodo que gera no console do navegador a lista completa
 jogos.mostrarTudo();
-
+//testando commit
 //item é retornado do metodo pegarElemento e mostrado no console
 console.log(jogos.pegarElemento(3));
